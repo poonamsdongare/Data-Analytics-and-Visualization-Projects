@@ -10,7 +10,7 @@ Our recommendation tool aims to bridge this gap by providing a comprehensive ana
 ## Interactive Dashboard
 Below images shows the interactive dashboard of the tool.  The tool allow user to select the state and county.  It offers various attributes, here user can select upper and lower ranges from the available ranges shown on slider. Based on the user inputs the tool calculates the score for all the neighborhoods and represents the areas with color gradient as shown below. Here, 1 represents the high score and 5  represents lowest score.
 
-![tool](Images/tool.png)
+![tool](Images/tool.PNG)
 
 
 ## Environment
